@@ -6,4 +6,4 @@
 
 https://github.com/konradjaworski/mypage/
 
-![image] (foto2.jpg)
+![image] (https://github.com/konradjaworski/mypage/blob/main/foto2.jpg)
