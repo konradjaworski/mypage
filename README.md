@@ -5,6 +5,7 @@
  ## the page will execute using basic html, css and javascript tools.
  ### placed on gitgub.
 
+adress:
 
 https://github.com/konradjaworski/mypage/
 
