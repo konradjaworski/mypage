@@ -1,6 +1,10 @@
 ﻿# my www - Konrad Jaworski
  
  ## this is my first webside, any questions? :)
+ 
+ ## the page will execute using basic html, css and javascript tools.
+ ### placed on gitgub.
+
 
 https://github.com/konradjaworski/mypage/
 
